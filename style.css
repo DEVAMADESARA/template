@@ -241,6 +241,10 @@
     color: white;
     border-color: white;
 }
+.form img{
+    width: 50%;
+    height: 500px;
+}
 
 .footer-section{
     width: 100%;
@@ -250,7 +254,7 @@
 .footer-section .footer-left{
     width: 30%;
     height: inherit;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     float: left;
     margin-left: 5%;
 }
@@ -273,7 +277,7 @@
 .footer-section .footer-center{
     width: 30%;
     height: inherit;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     float: left;
 }
 .footer-section .footer-center h2{
@@ -294,7 +298,7 @@
 .footer-section .footer-right{
     width: 25%;
     height: inherit;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     float: left;
 }
 .footer-right h2{
